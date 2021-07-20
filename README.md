@@ -7,6 +7,8 @@ A convinient Flutter Android app to get the coffee preferences of your friends.
   - Signup and login features.
   - Powered by Firebase Auth and Cloud Firestore.
 
+# Showcase
+
 ![Home](https://i.imgur.com/LfJ5WjY.png)
 
 Homepage<br/><br/><br/><br/>
