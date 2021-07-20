@@ -1,16 +1,23 @@
 # coffee_preference
 
-A new Flutter project.
+A convinient Flutter Android app to get the coffee preferences of your friends.
+  -Get visual coffee strength indicator and sugar cube preference of your friends.
+  -Settings panel to edit your preferences.
+  -Signup and login features.
+  -Powered by Firebase Auth and Cloud Firestore.
 
-## Getting Started
+![Home](https://i.imgur.com/LfJ5WjY.png)
 
-This project is a starting point for a Flutter application.
+Homepage<br/><br/><br/><br/>
 
-A few resources to get you started if this is your first Flutter project:
+![Register](https://i.imgur.com/A7ZPFWz.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Registration Page<br/><br/><br/><br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login](https://i.imgur.com/ZcE1cbq.png)
+
+Login Page<br/><br/><br/><br/>
+
+![Settings](https://i.imgur.com/Vx8uwTZ.png)
+
+Editable Settings Panel<br/><br/><br/><br/>
