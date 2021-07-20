@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">764725728076-gdtc1st05r81oacfitkq9psh840krsen.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">764725728076</string>
+    <string name="google_api_key" translatable="false">AIzaSyDn1Su8i5ugSdXvs3SAflvBY8LVcgNLb8I</string>
+    <string name="google_app_id" translatable="false">1:764725728076:android:9b1ea6382b06a9159575e9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDn1Su8i5ugSdXvs3SAflvBY8LVcgNLb8I</string>
+    <string name="google_storage_bucket" translatable="false">coffee-preference-95020.appspot.com</string>
+    <string name="project_id" translatable="false">coffee-preference-95020</string>
+</resources>
