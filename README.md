@@ -2,10 +2,10 @@
 
 A convinient Flutter Android app to get the coffee preferences of your friends.
 
-  -Get visual coffee strength indicator and sugar cube preference of your friends.
-  -Settings panel to edit your preferences.
-  -Signup and login features.
-  -Powered by Firebase Auth and Cloud Firestore.
+  - Get visual coffee strength indicator and sugar cube preference of your friends.
+  - Settings panel to edit your preferences.
+  - Signup and login features.
+  - Powered by Firebase Auth and Cloud Firestore.
 
 ![Home](https://i.imgur.com/LfJ5WjY.png)
 
